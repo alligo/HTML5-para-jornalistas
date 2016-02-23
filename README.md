@@ -3,6 +3,10 @@ Recomendações de boas práticas de edição de conteúdo visando uma web mais
 acessível até mesmo para cegos e semântica para aparecer bem em mecanismos de
 busca
 
+- [HTML5 para Jornalistas - Resumo](para-jornalisas/resumo.md)
+- [HTML5 para Jornalistas - Completo](para-jornalisas/completo.md)
+- [Desenvolvedores, suporte a jornalistas - Resumo](para-desenvolvedores/resumo.md)
+
 ## Qual vantagem de usar esses padrões?
 Para quem insere conteúdo (como jornalistas), algumas vantagens:
 
@@ -15,7 +19,6 @@ Para quem é desenvolvedor web, estimular esses padrões, é bom por:
 - O estilo visual será mais uniforme. Você se compromete a ouvir sugestões
 de melhorias na aparência, e as torna padrão
 - @todo inserir outras vantagens
-
 
 
 <!--

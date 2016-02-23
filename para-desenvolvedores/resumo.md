@@ -1,0 +1,1 @@
+# Desenvolvedores, suporte a jornalistas - Resumo
